@@ -1,2 +1,2 @@
-# Unity2DBrakables
-This script allows you to specify two textures one is the base for the sprite and the other is a color coded break map which provides enstructions for how to break up the object when the break method is called.
+# Unity2D Breakables
+Unity2D Brakeables is a simple Unity2D script that allows a single object to be broken up into peices using a color coded breakmap texture.  This script is no longer in development and therefore may not work in newer versions of Unity.
